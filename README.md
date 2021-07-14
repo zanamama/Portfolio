@@ -29,5 +29,3 @@ THEN I am presented with a responsive layout that adapts to my viewport
 The following animation will show the website's appearance and functionality.
 
 ## Add more details here with a link to my finished portfolio..or screenshot.
-
-## I'm seeing that this README is attached to the wrong index and style sheets.
