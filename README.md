@@ -30,3 +30,4 @@ The following animation will show the website's appearance and functionality.
 
 ## Add more details here with a link to my finished portfolio..or screenshot.
 
+portfolio image of website: <img src="/portfolio.png" alt="zana mathuthu site profile image">
