@@ -1,3 +1,16 @@
-body {
-  background-color: lightblue;
+.navbar {
+  margin-bottom: 5px;
+  border-radius: 5px;
 }
+footer {
+  background-color: #fcbd5e;
+  padding: 25px;
+}
+body {
+  background-color: rgb(244, 223, 154);
+}
+
+/* .col-sm-3 a:hover {
+  height: 2500px;
+
+} */

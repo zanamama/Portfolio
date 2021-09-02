@@ -10,7 +10,7 @@ AS AN employer
 I WANT to view a seamless site that is engaging and easy to follow, with projects included,
 SO THAT I can review samples of the work displayed, in considering Zana for employement as a Junior React JS Developer.
 
-## Acceptance Criteria (copied)
+## Acceptance Criteria
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
@@ -30,4 +30,4 @@ The following animation will show the website's appearance and functionality.
 
 ## Add more details here with a link to my finished portfolio..or screenshot.
 
-portfolio image of website: <img src="/portfolio.png" alt="zana mathuthu site profile image">
+portfolio image of website: <img src="https://i.imgur.com/RkpwlrE.png" alt="zana mathuthu site profile image">
