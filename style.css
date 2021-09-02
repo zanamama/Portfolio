@@ -14,3 +14,7 @@ body {
   height: 2500px;
 
 } */
+
+ul li {
+  list-style: none;
+}
