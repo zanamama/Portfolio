@@ -18,3 +18,7 @@ body {
 ul li {
   list-style: none;
 }
+
+ul li reach {
+  border-bottom: black 2px;
+}
